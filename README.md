@@ -32,15 +32,5 @@ Welcome to the Artical Project! This web application empowers users to create, s
 ### 9. **Social Media Integration**
    - Share your favorite articles on social media platforms to reach a wider audience.
 
-## Getting Started
 
-Follow these steps to get started with the Artical Project:
-1. Clone this repository.
-2. Open the `index.html` file in your preferred web browser.
-3. Create an account or log in to start creating and exploring articles.
-4. Use the editor to craft your articles and customize your user profile.
-
-Start expressing yourself through compelling articles and discover a world of diverse content! If you encounter any issues or have suggestions, feel free to open an issue in this repository.
-
-Happy writing and exploring!
 
